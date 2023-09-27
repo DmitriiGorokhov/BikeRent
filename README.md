@@ -1,4 +1,6 @@
 # BikeRent
-Bike rental app
+Bike rental app for try:
 
-ForCheck
+1. Воспроизвести LazyInitializationException
+2. Решить N+1 с помощью EntityGraph
+3. Применить чистый Hibernate
